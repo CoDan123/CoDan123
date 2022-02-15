@@ -1,6 +1,6 @@
 ### Hi there! I'm Daniel. 😎
 
-### I'm a Front-end/React.js developer!
+### I'm a self-taught Front-end/React.js developer!
 
 - 🔭 I’m currently working on React js projects
 - 📚 I’m currently learning everything Front-end development!
