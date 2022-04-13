@@ -5,9 +5,6 @@
 - 🔭 I’m currently working on React js projects
 - 📚 I’m currently learning everything Front-end development!
 - 👯 I’m looking to collaborate with React developers
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
 ### Languages and Tools:
  
